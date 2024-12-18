@@ -1,0 +1,35 @@
+html{
+    font-family: hELVETICA;
+    background-color: #ddd;
+
+}
+.conteiner{
+    max-width: 1100px;
+    background-color: #fff;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+.cabeçario{
+    text-align: center;
+}
+.meu-titulo{
+    font-size: 40px;
+}
+.meu-paragrafo{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+.featured-image{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.biografia{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
